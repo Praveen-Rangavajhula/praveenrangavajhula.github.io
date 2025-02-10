@@ -1,0 +1,14 @@
+title: Praveen Rangavajhula – Machine Learning Explorer & Continuous Learner
+description: A showcase of my projects and research in machine learning, 
+  focusing on data-driven solutions, optimization techniques, and continuous learning.
+theme: minimal
+
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+
+author: Praveen Rangavajhula
+email:
+  - praveen.rangavajhula@gmail.com   # Personal email
+  - praveen.rangavajhula@uga.edu     # Academic/professional email
